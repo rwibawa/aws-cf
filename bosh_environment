@@ -1,0 +1,7 @@
+export BOSH_VPC_DOMAIN=navisow.com
+export BOSH_VPC_SUBDOMAIN=cf-example
+export BOSH_AWS_ACCESS_KEY_ID=AKIAIXSHWOGGE23ZCPKA
+export BOSH_AWS_SECRET_ACCESS_KEY=LkDJl0pA+dcM54ozb753mM8Wi4suo0dsY1vC92LP
+export BOSH_AWS_REGION=us-west-1
+export BOSH_VPC_PRIMARY_AZ=us-west-1a
+export BOSH_VPC_SECONDARY_AZ=us-west-1c
